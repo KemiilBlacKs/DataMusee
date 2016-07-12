@@ -1,0 +1,29 @@
+.liste{
+   
+    height: 110px;
+    display: inline-block;
+    margin: 2% 4%;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.27);
+    text-align: center !important;
+}
+
+.listeBox{
+    text-decoration: none !important;
+    color:#2c3e50 !important;
+    position: relative !important;
+    top: 35px;
+    font-size: 17px;
+}
+
+a:hover{
+    color:  rgba(44, 62, 80, 0.18) !important; 
+}
+
+.form-horizontal{
+    position: relative;
+    top: 50px;
+}
+
+header{
+        height: 197px;
+}
